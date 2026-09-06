@@ -1,5 +1,0 @@
-package com.expensemanager.dto;
-
-public class AIInsightResponse {
-
-}
